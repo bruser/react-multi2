@@ -1,0 +1,36 @@
+body{background: #fff !important; font-family: "Microsoft YaHei"; font-size: 14px; color: #b8babc; min-width: 1240px; word-break: break-all; cursor: default;}
+*{padding: 0; margin: 0; box-sizing: border-box; -moz-box-sizing: border-box; /* Firefox */ -webkit-box-sizing: border-box; /* Safari */}
+table{border-collapse: collapse; border-spacing: 0;}
+fieldset,
+img{border: 0 none;}
+address,
+caption,
+cite,
+code,
+dfn,
+em,
+strong,
+th,
+var{font-style: normal; font-weight: normal;}
+strong{font-weight: 800;}
+ol,
+ul,
+li{list-style: none outside none;}
+caption,
+th{text-align: left;}
+a{cursor: pointer; text-decoration: none; display: inline-block; color: blueviolet;}
+ol,
+ul{margin: 0;}
+span,
+i{display: inline-block;}
+.pull-left{float: left !important;}
+.pull-right{float: right !important;}
+.tit-con-hide{display: none;}
+.show{display: block !important;}
+.lock{display: none;}
+.clearfix{*zoom: 1}
+.clearfix:after,
+.clearfix:before{content: " "; display: table}
+.clearfix:after{height: 0; line-height: 0; visibility: hidden; clear: both;}
+input{outline-color: #C16C6F; border: none; font-family: "Microsoft YaHei"; outline: none; vertical-align: middle;}
+button{cursor: pointer; outline: none; border: none; color: #B8BABC; background: #222226; font-family: "Microsoft YaHei";}

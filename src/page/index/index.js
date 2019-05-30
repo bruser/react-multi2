@@ -9,7 +9,7 @@ import store from './store';
 
 import { Provider } from 'react-redux';
 import Component1 from './test/index.jsx'
-
+import '../../assets/global.scss'
 // ReactDom.render(
 //     <Provider store={store}>
 //         <Component1/>
